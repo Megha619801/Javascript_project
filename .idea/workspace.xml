@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3c41b354-5a0b-42ff-97e5-94cba61dc16e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/pythonProject3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assignment.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classy.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example.js" afterDir="false" />
-    </list>
+    <list default="true" id="3c41b354-5a0b-42ff-97e5-94cba61dc16e" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,6 +22,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Megha619801&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Megha619801/Javascript_project.git&quot;,
+    &quot;accountId&quot;: &quot;d0529f83-965a-4d81-bd4f-abcd491a12a8&quot;
+  }
+}</component>
   <component name="JsbtTreeLayoutManager">
     <layout place="tools.popupGrunt">
       <scroll-view-position x="0" y="0" />
@@ -94,7 +94,7 @@
       <workItem from="1731327009073" duration="208000" />
       <workItem from="1731802238405" duration="4666000" />
       <workItem from="1731861013604" duration="3569000" />
-      <workItem from="1731875621246" duration="3616000" />
+      <workItem from="1731875621246" duration="3881000" />
     </task>
     <servers />
   </component>

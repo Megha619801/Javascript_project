@@ -4,7 +4,31 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3c41b354-5a0b-42ff-97e5-94cba61dc16e" name="Changes" comment="" />
+    <list default="true" id="3c41b354-5a0b-42ff-97e5-94cba61dc16e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Module 1/Exercise 01/question 01.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module 1/Exercise 01/question 01.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module 1/Exercise 02/question 02.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module 1/Exercise 02/question 02.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module 1/Exercise 03/question 03.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module 1/Exercise 03/question 03.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module 1/Exercise 04/question 04.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module 1/Exercise 04/question 04.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module 1/Exercise 05/question 05.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module 1/Exercise 05/question 05.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module 1/Exercise 06/question 06.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module 1/Exercise 06/question 06.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module 1/Exercise 07/question 07.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module 1/Exercise 07/question 07.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module 1/Exercise 08/question 08.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module 1/Exercise 08/question 08.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module 1/Exercise 09/question 09.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module 1/Exercise 09/question 09.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module 1/Exercise 10/question 10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module 1/Exercise 10/question 10.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment.js" beforeDir="false" afterPath="$PROJECT_DIR$/assignment.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example.html" beforeDir="false" afterPath="$PROJECT_DIR$/example.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,9 +37,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -57,7 +81,7 @@
     &quot;JavaScript Debug.example.html.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/mahat/OneDrive/Desktop/HtmlProject&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/mahat/PycharmProjects/JavascriptProject&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -67,6 +91,14 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\mahat\PycharmProjects\JavascriptProject" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\mahat\PycharmProjects\JavascriptProject\Module 1" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="example.js" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="example.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
@@ -95,6 +127,9 @@
       <workItem from="1731802238405" duration="4666000" />
       <workItem from="1731861013604" duration="3569000" />
       <workItem from="1731875621246" duration="3881000" />
+      <workItem from="1731879695077" duration="197000" />
+      <workItem from="1731882102388" duration="10000" />
+      <workItem from="1732708910111" duration="1331000" />
     </task>
     <servers />
   </component>

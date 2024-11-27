@@ -4,30 +4,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3c41b354-5a0b-42ff-97e5-94cba61dc16e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Module 1/Exercise 01/question 01.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Module 1/Exercise 01/question 01.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Module 1/Exercise 02/question 02.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Module 1/Exercise 02/question 02.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Module 1/Exercise 03/question 03.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Module 1/Exercise 03/question 03.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Module 1/Exercise 04/question 04.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Module 1/Exercise 04/question 04.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Module 1/Exercise 05/question 05.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Module 1/Exercise 05/question 05.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Module 1/Exercise 06/question 06.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Module 1/Exercise 06/question 06.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Module 1/Exercise 07/question 07.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Module 1/Exercise 07/question 07.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Module 1/Exercise 08/question 08.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Module 1/Exercise 08/question 08.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Module 1/Exercise 09/question 09.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Module 1/Exercise 09/question 09.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Module 1/Exercise 10/question 10.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Module 1/Exercise 10/question 10.js" afterDir="false" />
+    <list default="true" id="3c41b354-5a0b-42ff-97e5-94cba61dc16e" name="Changes" comment="Merge remote-tracking branch 'origin/master'">
+      <change afterPath="$PROJECT_DIR$/module 4/t1/1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module 4/t1/1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module 4/t1/1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module 4/t2/1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module 4/t2/1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module 4/t2/1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module 4/t3/1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module 4/t3/1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module 4/t3/1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module 4/t4/1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module 4/t4/1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module 4/t4/1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module 4/t5/1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module 4/t5/1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module 4/t5/1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module 4/t6/1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module 4/t6/1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module 4/t6/1.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assignment.js" beforeDir="false" afterPath="$PROJECT_DIR$/assignment.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example.html" beforeDir="false" afterPath="$PROJECT_DIR$/example.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,13 +33,20 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="JavaScript File" />
+        <option value="CSS File" />
         <option value="HTML File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -70,7 +73,9 @@
   &quot;associatedIndex&quot;: 4
 }</component>
   <component name="ProjectId" id="2oQBgebx7JawijzUJNPLRlWZEQH" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -81,7 +86,7 @@
     &quot;JavaScript Debug.example.html.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/mahat/PycharmProjects/JavascriptProject&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/mahat/PycharmProjects/JavascriptProject/module 4&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -93,9 +98,11 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\mahat\PycharmProjects\JavascriptProject\module 4" />
       <recent name="C:\Users\mahat\PycharmProjects\JavascriptProject" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\mahat\PycharmProjects\JavascriptProject\module 4\t1" />
       <recent name="C:\Users\mahat\PycharmProjects\JavascriptProject\Module 1" />
     </key>
   </component>
@@ -129,11 +136,37 @@
       <workItem from="1731875621246" duration="3881000" />
       <workItem from="1731879695077" duration="197000" />
       <workItem from="1731882102388" duration="10000" />
-      <workItem from="1732708910111" duration="1331000" />
+      <workItem from="1732708910111" duration="2742000" />
+      <workItem from="1732712337019" duration="422000" />
+      <workItem from="1733076392214" duration="27000" />
+      <workItem from="1733692806063" duration="129000" />
     </task>
+    <task id="LOCAL-00001" summary="ammend assignment">
+      <option name="closed" value="true" />
+      <created>1732711447920</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1732711447920</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Merge remote-tracking branch 'origin/master'">
+      <option name="closed" value="true" />
+      <created>1732711474360</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1732711474360</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="delete example.js" />
+    <MESSAGE value="ammend assignment" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/master'" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/master'" />
   </component>
 </project>
